@@ -2,6 +2,8 @@
   <dictionary name="wiebe">
     <words>
       <w>argmax</w>
+      <w>xmax</w>
+      <w>ymax</w>
     </words>
   </dictionary>
 </component>
